@@ -1,0 +1,34 @@
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\Connected Services\ServiceReference1\ConnectedService.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.exe
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.deps.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.runtimeconfig.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.runtimeconfig.dev.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\fone-soap-app.pdb
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.csprojAssemblyReference.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.AssemblyInfoInputs.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.AssemblyInfo.cs
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\staticwebassets\fone-soap-app.StaticWebAssets.Manifest.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\staticwebassets\fone-soap-app.StaticWebAssets.xml
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\scopedcss\bundle\fone-soap-app.styles.css
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.csproj.CopyComplete
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.dll
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.pdb
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\obj\Debug\netcoreapp3.1\fone-soap-app.genruntimeconfig.cache
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\Connected Services\NumberConversion\ConnectedService.json
+C:\Users\leonardo.sanchez\source\repos\fone-soap-app\bin\Debug\netcoreapp3.1\Connected Services\ServiceReference2\ConnectedService.json

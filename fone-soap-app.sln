@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fone-soap-app", "fone-soap-app.csproj", "{F698B203-1C12-4DD4-98D6-21EDF1B5B19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F698B203-1C12-4DD4-98D6-21EDF1B5B19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F698B203-1C12-4DD4-98D6-21EDF1B5B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F698B203-1C12-4DD4-98D6-21EDF1B5B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F698B203-1C12-4DD4-98D6-21EDF1B5B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11F2DB8-5B9E-4750-8E73-9F4CD56734AC}
+	EndGlobalSection
+EndGlobal

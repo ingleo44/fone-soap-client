@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "U41T2SWhVEOaBp5ZXx6C04fB8coyHQVuHUcEOEp2+lBIPiqXk6jhCcyPCf9gIhJdObTNLrRxeHrR5e6RVaVjfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonardo.sanchez\\source\\repos\\fone-soap-app\\fone-soap-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.private.servicemodel\\4.4.4\\system.private.servicemodel.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512",
+    "C:\\Users\\leonardo.sanchez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
